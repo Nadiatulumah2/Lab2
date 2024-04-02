@@ -1,8 +1,13 @@
 # Tugas Web 2
+
 Nama : Nadiatul umah
+
 Nim  : 312210500
+
 Kelas: TI.22.A.5
+
 Mata Kuliah    : Pemrograman web
+
 Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 #Tugas ini di buat untuk tugas pertama web menggunakan code php sederhana
