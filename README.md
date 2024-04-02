@@ -26,6 +26,10 @@ Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom.
 
 
 #Dan berikut untuk contoh hasilnya
+
+![Screenshot (126)](https://github.com/Nadiatulumah2/Lab2/assets/129835302/251fb7e5-86b1-461f-b905-365a717044ff)
+
+
 #Terimakasih
 
 
